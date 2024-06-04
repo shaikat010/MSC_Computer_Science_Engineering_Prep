@@ -2,7 +2,7 @@
 Repository for MSC preparation for Computer Science and Engineering for universities in Bangladesh
 
 # What Topics to Study About:
-                                                                   
+
 Data Structures and Algorithms                       
 Artificial Intelligence
 Compiler and Automata Theory
